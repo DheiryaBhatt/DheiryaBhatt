@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DheiryaBhatt
-- 👀 I’m interested in data science & information technology
-- 🌱 I’m currently learning html,css,javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? on instagram @dheirya_bhatt.
+- 📚 I have studied in Information Technology
+- 🌱 I’m currently learning Machine Learning & Artificial Intelligence
+- 📫 How to reach me? via email bhattdheirya@gmail.com
 
 <!---
 DheiryaBhatt/DheiryaBhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
